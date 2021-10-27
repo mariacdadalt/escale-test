@@ -1,0 +1,11 @@
+{
+  "name": "mariacdadalt/escale-test-plugin",
+  "type": "wordpress-plugin",
+  "autoload":
+  {
+    "psr-4":
+    {
+      "eScale\\Test\\": "src"
+    }
+  }
+}
